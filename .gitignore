@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# environment variables
+.env
+.env.local
+.env.*.local
+
+# next.js build output
+contractiq-app/.next/
+contractiq-app/node_modules/
+contractiq-app/*.tsbuildinfo
+contractiq-app/next-env.d.ts
