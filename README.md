@@ -1,6 +1,6 @@
 # app-dev-os
 
-A reusable, stage-gated Claude Code workflow for turning a product idea into a production-ready app — PRD to engineering docs to specs to security to a scaffolded app. No stage begins until the previous one is approved, and no code is written before specs exist.
+A reusable, stage-gated Claude Code workflow for turning a product idea into a production-ready app: PRD to engineering docs to specs to security to a scaffolded app. No stage begins until the previous one is approved, and no code is written before specs exist.
 
 ---
 
